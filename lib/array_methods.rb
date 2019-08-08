@@ -18,11 +18,13 @@ def using_reverse(array)
 end
 
 def using_first(array)
+  when "takes in argument of an array and and returns the first element in the array" do
+    array.first
 
 end
 
 def using_last(array)
-
+  array.last
 end
 
 def using_size(array)
