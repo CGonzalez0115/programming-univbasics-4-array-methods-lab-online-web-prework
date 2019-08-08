@@ -12,6 +12,8 @@ def using_sort(array)
 end
 
 def using_reverse(array)
+  when "takes in argument of an array and returns that same array with the contents reversed." do
+    array.reverse
 
 end
 
