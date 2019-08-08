@@ -1,4 +1,5 @@
 def using_include(array, element)
+  when "takes in arguments of an array and an element and returns true if the array includes that element, false if it does not." do
   array.include?("am")
   array.include?("great")
 
